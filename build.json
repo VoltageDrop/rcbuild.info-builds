@@ -9,14 +9,16 @@
     ],
     "arm": "",
     "battery": [
+      "Thunder-Power/1300mAh-4s-70c-Lipo-Battery",
+      "Thunder-Power/1800mAh-4s-70c-Lipo-Battery"
     ],
     "osd": "",
     "receiver": "FrSky/X4RSB",
-    "flightcam": "",
+    "flightcam": "Surveilzone/HS1177-(PZ0420M)-Sony-Super-HAD-II-Ultra-Mini",
     "hqcam": "GoPro/HERO3+-Silver-Edition",
     "videotx": "ImmersionRC/5.8GHz-600mw",
     "blackbox": "",
-    "voltagereg": ""
+    "voltagereg": "Pololu/5V,-500mA-Step-Down-Voltage-Regulator"
   },
   "version": 1
 }
