@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "UnknownManufacturer/liftrc/AirBlade-Assault-Micro-Quad-Frame",
+    "esc": "DYS/10A-2-4S-with-BLHeli-Program-Brushless-ESC-for-Multicopter",
+    "motor": "DYS/BE1104-4000kv-Brushless-Motor",
+    "fc": "EMAX/Skyline32-Naze32-Acro-V2-Flight-Controller-with-Compass-Support-OSD-OLED-Spektrum",
+    "prop": [
+      "DYS/3020-ABS-Propellers-4-x-CW-and-4x-CCW-Orange"
+    ],
+    "arm": "",
+    "battery": [
+      "Turnigy/nano-tech-450mAh-3S-65C-Lipo-(E-flite-Compatible-Blade-180CFX-EFLB4503SJ30)"
+    ],
+    "osd": "",
+    "receiver": "FrSky/D4R-II",
+    "flightcam": "Spektrum NanoQX Cam & Vtx",
+    "hqcam": "",
+    "videotx": "Cam integrated",
+    "blackbox": "",
+    "voltagereg": "Pololu/5V,-500mA-Step-Down-Voltage-Regulator-D24V5F5"
+  },
+  "version": 1
 }
